@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140374665765",
+    "firebase_url": "https://dsc-codelab-master-13e07.firebaseio.com",
+    "project_id": "dsc-codelab-master-13e07",
+    "storage_bucket": "dsc-codelab-master-13e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140374665765:android:d65b924a2a572542",
+        "android_client_info": {
+          "package_name": "com.gwazasoftwares.kampo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140374665765-k881vg2idqe1c8a8qrfhne7rss00rco6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwazasoftwares.kampo",
+            "certificate_hash": "60e4eedbf53f48ac931f27881e0c15e3d289a91a"
+          }
+        },
+        {
+          "client_id": "140374665765-1earodc000vicp22toqof4jrle0af9d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_4x3T3oMWLd_eHno2aabuouQSYtJpPZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140374665765-1earodc000vicp22toqof4jrle0af9d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
